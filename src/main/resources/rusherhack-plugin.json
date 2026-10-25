@@ -1,0 +1,16 @@
+{
+  "Plugin-Class": "com.crazyhacks.tabsort.CrazyTabSortPlugin",
+  "Name": "${project.plugin_name}",
+  "Version": "${project.plugin_version}",
+  "Description": "TabSort module: friends at the top of the tab list, enemies right under them. Made by lurda55",
+  "URL": "https://github.com/lurda55/crazy-tabsort-rusherhack",
+  "Authors": [
+    "lurda55"
+  ],
+  "Minecraft-Versions": [
+    "${project.minecraft_version}"
+  ],
+  "Mixin-Configs": [
+    "mixins.crazy-tabsort.json"
+  ]
+}
